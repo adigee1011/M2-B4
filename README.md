@@ -38,4 +38,4 @@ https://www.brcline.com/blog/5-tips-write-maintainable-code
 
 * Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
 
-
+https://lucybain.com/blog/2014/js-dont-touch-global-scope/
